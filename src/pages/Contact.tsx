@@ -41,7 +41,7 @@ const Contact = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {[
-            { icon: Phone, title: 'Phone', content: '+91 123-456-7890', delay: 0 },
+            { icon: Phone, title: 'Phone', content: '+91 861 731 8068', delay: 0 },
             { icon: Mail, title: 'Email', content: 'info@digitalmarketing.com', delay: 0.1 },
             { icon: MapPin, title: 'Location', content: 'Gantar Cricket Playground, West Bengal', delay: 0.2 },
             { icon: Clock, title: 'Working Hours', content: 'Mon - Fri: 9AM to 6PM', delay: 0.3 }

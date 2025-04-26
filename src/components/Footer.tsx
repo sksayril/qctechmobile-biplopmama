@@ -15,8 +15,8 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <img src={billingPandaLogo} alt="Qc Tech Mobile Service Logo" className="h-12 w-12 object-contain" />
-              <h3 className="text-2xl font-bold text-white">Qc Tech Mobile Service</h3>
+              <img src={billingPandaLogo} alt="Qc Tech Service Logo" className="h-12 w-12 object-contain" />
+              <h3 className="text-2xl font-bold text-white">Qc Tech  Service</h3>
             </div>
             <p className="text-sm">
               Transforming businesses through innovative billing solutions since 2015.
@@ -112,7 +112,7 @@ const Footer = () => {
               <li className="flex items-center">
                 <Phone size={16} className="mr-2 text-green-500" />
                 <a href="tel:+1234567890" className="hover:text-green-500 transition-colors">
-                  +1 (234) 567-890
+                  +91 (861) 731-8068
                 </a>
               </li>
               <li className="flex items-center">
